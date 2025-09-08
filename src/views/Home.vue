@@ -109,7 +109,7 @@ export default {
         width: 100%
         color: #fff !important
     .icon
-      background-color: #496406
+      background-color: #441C42
       padding: 0px 20px
       color: #fff
       display: flex
